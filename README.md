@@ -11,4 +11,4 @@ Trang web trình bày dạng vở ghi viết tay đẹp mắt với đầy đủ
 👉 **[https://hyuquang.github.io/toan-12/](https://hyuquang.github.io/toan-12/)**
 
 ---
-*Học sinh: Đặng Huy Quang - Lớp 12A, Trường THPT Cổ Loa*
+*Học sinh: Ngô Quang Huy - Lớp 12A, Trường THPT Cổ Loa*
